@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
-- 📫siyana.nikolovaa@gmail.com
+- 📫siyana.nikolova.dev@gmail.com
 
 <!---
 SiyanaNikolovaa/SiyanaNikolovaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
